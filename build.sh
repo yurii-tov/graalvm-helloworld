@@ -22,7 +22,7 @@ arch=${1:-x86_x64}
 jar=graalvm-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 
-export PATH="/c/tools/graalvm-ce-java8-21.2.0/bin:/c/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/VC/Auxiliary/Build:$PATH"
+export PATH="/c/tools/graalvm-jdk-17.0.8+9.1/bin:/c/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Auxiliary/Build:$PATH"
 
 
 # Building jar
